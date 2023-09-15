@@ -8,9 +8,9 @@ body{
     height: 100vh;
 }
 
-.h-33 {
+.h-10 {
 
-height: 33.33vh;
+height: 10.2vh;
 }
 
 .background-blue{
@@ -18,20 +18,24 @@ height: 33.33vh;
     background-color: blue;
 }
 
-.background-yellow{
+.background-brown{
 
-    background-color: yellow;
+    background-color: brown;
 }
 
 .background-red{
 
     background-color: red;
 }
-.background-pink{
+.background-darksalmon{
 
-    background-color: pink;
+    background-color: darksalmon;
 }
-.background-salmon{
+.background-black{
 
-    background-color: salmon;
+    background-color: black;
+}
+.background-grey{
+
+    background-color: grey;
 }
