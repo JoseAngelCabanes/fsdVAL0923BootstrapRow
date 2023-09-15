@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+
+    height: 100vh;
+}
+
+.h-33 {
+
+height: 33.33vh;
+}
+
+.background-blue{
+
+    background-color: blue;
+}
+
+.background-yellow{
+
+    background-color: yellow;
+}
+
+.background-red{
+
+    background-color: red;
+}
+.background-pink{
+
+    background-color: pink;
+}
+.background-salmon{
+
+    background-color: salmon;
+}
